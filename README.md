@@ -35,8 +35,8 @@ wordcount()
 ```
 
 ### OUTPUT:
-
-
+![program](./Screenshot%20(116).png)
+![output](./Screenshot%20(117).png)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
